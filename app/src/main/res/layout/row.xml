@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:orientation="vertical"
@@ -10,21 +9,4 @@
         android:layout_height="match_parent"
         android:scaleType="fitXY"/>
 
-
 </LinearLayout>
-||||||| merged common ancestors
-=======
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="match_parent"
-    android:orientation="vertical"
-    android:layout_height="match_parent">
-
-    <com.example.aakash.imagemultiple.SquareImageView
-        android:id="@+id/image"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:scaleType="centerCrop"/>
-
-
-</LinearLayout>
->>>>>>> 0ea380887a4b64861f2ce457c934d0733352b486
